@@ -37,8 +37,12 @@ Ce projet développé avec Express.js présente un système simple d’authentif
 ## 1. Cloner le projet
 ```bash
 git clone <url-du-projet>
-
+```
 ## 2. Installer les dépendances 
+```
 npm install
-
-
+```
+## 3. Installer les packages nécessaires
+```
+npm install express express-session body-parser
+```
